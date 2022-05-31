@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @prjoyce
+- 👀 I'm interested in learning to program
+- 🌱 I'm currently learning programming
