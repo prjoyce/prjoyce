@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @prjoyce
-- 👀 I'm interested in learning to program
-- 🌱 I'm currently learning programming
+- Hi, I’m @prjoyce
+- I'm interested in learning to program
+- I'm currently learning programming
+- I am currently interested in learning to program, and if possible I would like to one day be able to program my own game.
+- https://scratch.mit.edu/projects/681066337/editor - https://editor.p5js.org/joycerp/sketches/-KvnitHWB
